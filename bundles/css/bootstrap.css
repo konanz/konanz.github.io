@@ -7507,7 +7507,7 @@ button.bg-dark:focus {
 
 .mt-4,
 .my-4 {
-  margin-top: 1.5rem !important;
+  margin-top: 1.5rem ;
 }
 
 .mr-4,
@@ -7517,7 +7517,7 @@ button.bg-dark:focus {
 
 .mb-4,
 .my-4 {
-  margin-bottom: 1.5rem !important;
+  margin-bottom: 1.5rem ;
 }
 
 .ml-4,
@@ -7541,12 +7541,12 @@ button.bg-dark:focus {
 
 .mb-5,
 .my-5 {
-  margin-bottom: 3rem !important;
+  margin-bottom: 3rem ;
 }
 
 .ml-5,
 .mx-5 {
-  margin-left: 3rem !important;
+  margin-left: 3rem ;
 }
 
 .p-0 {
@@ -8152,7 +8152,7 @@ button.bg-dark:focus {
   }
   .pb-md-3,
   .py-md-3 {
-    padding-bottom: 1rem !important;
+    padding-bottom: 1rem ;
   }
   .pl-md-3,
   .px-md-3 {
@@ -8326,7 +8326,7 @@ button.bg-dark:focus {
   }
   .mb-lg-5,
   .my-lg-5 {
-    margin-bottom: 3rem !important;
+    margin-bottom: 1.5rem ;
   }
   .ml-lg-5,
   .mx-lg-5 {
@@ -8432,7 +8432,7 @@ button.bg-dark:focus {
   }
   .pt-lg-5,
   .py-lg-5 {
-    padding-top: 3rem !important;
+    padding-top: 3rem ;
   }
   .pr-lg-5,
   .px-lg-5 {
