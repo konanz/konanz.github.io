@@ -999,7 +999,7 @@ ul.links li a:hover,
     letter-spacing: 1px;
 }
 .teamy_post {
-    margin-top: .5em;
+    margin-top: 0.25em;
     font-size: 14px;
     text-transform: capitalize;
     color: #6f6f6f;
@@ -1083,7 +1083,7 @@ a.move-top span{
 	}
 	h3.tittle-w3 {
 		font-size: 1.7em;
-		line-height: 40px;
+		line-height: 30px;
 	}
 }
 
@@ -1106,7 +1106,7 @@ a.move-top span{
 		font-size: 14.5px !important;
 	}
 	h3.tittle-w3 {
-		font-size: 1.7em !important;
+		font-size: 1.7em ;
 		line-height: 45px;
 	}
 	.contact-info h4 {
