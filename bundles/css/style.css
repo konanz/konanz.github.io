@@ -989,16 +989,16 @@ ul.links li a:hover,
 /*-- //Contact page --*/
 
 
-/*-- team --*/
+/*-- post --*/
 /* common styles for visual styles */
 
-.teamy_name {
+.post_name {
     font-size: 20px;
     font-weight: 600;
     color: #333;
     letter-spacing: 1px;
 }
-.teamy_post {
+.post_date {
     margin-top: 0.25em;
     font-size: 14px;
     text-transform: capitalize;
@@ -1007,10 +1007,10 @@ ul.links li a:hover,
 }
 /* style 1 */
 
-.teamy_content,.teamy_back {
+.post_content,.post_back {
  text-align: center;
 }
-.teamy_back-inner span.fa {
+.post_back-inner span.fa {
     color: #999;
     font-size: 14px;
     margin: 10px 5px;
@@ -1022,22 +1022,22 @@ ul.links li a:hover,
     -ms-transition: 0.5s all;
     -o-transition: 0.5s all;
 }
-.teamy_back-inner span.fa.fa-facebook {
+.post_back-inner span.fa.fa-facebook {
     color: #3b5998;
 }
-.teamy_back-inner span.fa.fa-facebook:hover {
+.post_back-inner span.fa.fa-facebook:hover {
 	opacity:0.8;
 }
-.teamy_back-inner span.fa.fa-twitter {
+.post_back-inner span.fa.fa-twitter {
     color: #1da1f2;
 }
-.teamy_back-inner span.fa.fa-twitter:hover{
+.post_back-inner span.fa.fa-twitter:hover{
 	opacity:0.8;
 }
-.teamy_back-inner span.fa.fa-envelope-open {
+.post_back-inner span.fa.fa-envelope-open {
     color: #dd4b39;
 }
-.teamy_back-inner span.fa.fa-envelope-open:hover {
+.post_back-inner span.fa.fa-envelope-open:hover {
 	opacity:0.8;
 }
 /*-- //team --*/
