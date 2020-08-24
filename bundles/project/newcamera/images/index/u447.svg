@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="31px" height="31px" xmlns="http://www.w3.org/2000/svg">
-  <g transform="matrix(1 0 0 1 -758 -3100 )">
-    <path d="M 758 3100  L 789 3100  L 789 3131  L 758 3131  L 758 3100  " fill-rule="nonzero" fill="#cccccc" stroke="none" />
-    <path d="M 760 3102  L 787 3102  L 787 3129  L 760 3129  L 760 3102  " fill-rule="nonzero" fill="#ffffff" stroke="none" />
-    <path d="M 776.445 3109.3  C 775.143 3109.3  774.12 3108.277  774.12 3106.975  C 774.12 3105.673  775.143 3104.65  776.445 3104.65  C 777.747 3104.65  778.77 3105.673  778.77 3106.975  C 778.77 3108.277  777.747 3109.3  776.445 3109.3  " fill-rule="nonzero" fill="#cccccc" stroke="none" />
-    <path d="M 761 3128  L 761 3114.25  L 767.25 3108  L 776 3113  L 781 3111.75  L 786 3113  L 786 3128  L 761 3128  " fill-rule="nonzero" fill="#169bd5" stroke="none" />
+  <g transform="matrix(1 0 0 1 -758 -3048 )">
+    <path d="M 758 3048  L 789 3048  L 789 3079  L 758 3079  L 758 3048  " fill-rule="nonzero" fill="#cccccc" stroke="none" />
+    <path d="M 760 3050  L 787 3050  L 787 3077  L 760 3077  L 760 3050  " fill-rule="nonzero" fill="#ffffff" stroke="none" />
+    <path d="M 776.445 3057.3  C 775.143 3057.3  774.12 3056.277  774.12 3054.975  C 774.12 3053.673  775.143 3052.65  776.445 3052.65  C 777.747 3052.65  778.77 3053.673  778.77 3054.975  C 778.77 3056.277  777.747 3057.3  776.445 3057.3  " fill-rule="nonzero" fill="#cccccc" stroke="none" />
+    <path d="M 761 3076  L 761 3062.25  L 767.25 3056  L 776 3061  L 781 3059.75  L 786 3061  L 786 3076  L 761 3076  " fill-rule="nonzero" fill="#169bd5" stroke="none" />
   </g>
 </svg>
